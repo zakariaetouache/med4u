@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527046418731",
+    "firebase_url": "https://med4u-148cb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "med4u-148cb",
+    "storage_bucket": "med4u-148cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527046418731:android:691e3172a885e76debe56e",
+        "android_client_info": {
+          "package_name": "com.example.med4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527046418731-3oiumcvq6vu432djmvodjufajiqen1h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEh7RVa6AjFfkz1tTN0BULUsnM82viXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527046418731-3oiumcvq6vu432djmvodjufajiqen1h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
